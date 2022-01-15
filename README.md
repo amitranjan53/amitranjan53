@@ -3,7 +3,6 @@ I am Amit Ranjan. I work as full time sofware developer.
 My Tech Stack : 
 
 :tada: Java <br/>
-:tada: Spark with java<br/>
 :tada: Spring<br/>
 :tada: Spring-Boot<br/>
 :tada: spark-sql with java
